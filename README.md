@@ -3,9 +3,10 @@ Checking the server utilization is one of the important task of an administrator
 
 for run script
 chmod +X run.sh
-
-./run.sh 
+````
+$ ./run.sh 
 
 or
 
-bash run.sh
+$ bash run.sh
+```
