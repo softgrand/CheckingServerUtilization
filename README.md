@@ -3,6 +3,7 @@ Checking the server utilization is one of the important task of an administrator
 
 for run script
 chmod +X run.sh
+
 ./run.sh 
 
 or
